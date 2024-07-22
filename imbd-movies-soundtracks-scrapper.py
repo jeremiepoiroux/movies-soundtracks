@@ -56,7 +56,7 @@ def process_row(index, row):
 
 def main(start_index, end_index):
     # Load the data
-    data_csv = pd.read_csv('updated_URLlist_large_master.csv')
+    data_csv = pd.read_csv('data.csv')
 
     # Extract the subset of rows to process (inclusive of start_index and end_index)
     indices_to_scrape = range(start_index, end_index + 1)
