@@ -18,7 +18,3 @@ Some basic stats about the dataset:
 
 You may also download the [scrapping Python script](https://github.com/jeremiepoiroux/movies-soundtracks/blob/main/imbd-movies-soundtracks-scrapper.py), where data.csv is a file with, for each row, a title (Title column) and a soundtrack URL (Soundtrack_URL column).
 I welcome any feedbacks :) 
-
-## The soundtrack
-
-Work in progress
